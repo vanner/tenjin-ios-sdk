@@ -1,4 +1,4 @@
-
+# This repository has been moved to https://github.com/tenjin/tenjin-ios-sdk
 
 Please see our [Release Notes](https://github.com/tenjin/tenjin-ios-sdk/wiki) to see detailed version history.
 
